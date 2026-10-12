@@ -1,4 +1,4 @@
-# Adult Census Income: Exploratory Data Analysis & Machine Learning
+# Adult Census Income: Exploratory Data Analysis
 
 A Python project that explores the **Adult Census Income** dataset and compares machine-learning classifiers for predicting whether an individual's annual income is **`>50K`** or **`<=50K`**. It produces colorful exploratory visualizations, model evaluation charts, CSV summaries, and a serialized best-performing model.
 
